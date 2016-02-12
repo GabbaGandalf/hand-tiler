@@ -1,6 +1,6 @@
-* Awesome WM manual teleport
+* Awesome WM teleport
 
-Awesome WM manual teleport extension.
+Awesome WM teleport extension.\\
 Works only when "float" layout is active.
 
 ** Install
